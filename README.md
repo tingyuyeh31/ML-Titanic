@@ -1,3 +1,3 @@
 # 2021spring-ML-FinalProject
 
-Final project of the course.
+Final project of Introduction to Machine Learning in ESS at NTHU.
